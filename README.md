@@ -25,3 +25,7 @@ In utils you can generate a density map
 # archivos_XML
 In archivos_XML you can find all the labels of the head counting (GT)
 
+# crowdcount-mcnn
+
+Original repository and modifications of the fine tuning with our data.
+

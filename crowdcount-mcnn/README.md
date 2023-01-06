@@ -1,6 +1,6 @@
 # Single Image Crowd Counting via Multi Column Convolutional Neural Network
 
-This is an unofficial implementation of CVPR 2016 paper ["Single Image Crowd Counting via Multi Column Convolutional Neural Network"](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhang_Single-Image_Crowd_Counting_CVPR_2016_paper.pdf)
+This is an unofficial implementation of CVPR 2016 paper ["Single Image Crowd Counting via Multi Column Convolutional Neural Network"](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhang_Single-Image_Crowd_Counting_CVPR_2016_paper.pdf). We did fine-tuning with our own repository of TM Javeriana, so you can change the data setup database for other crowd counting massive system images.
 
 # Installation
 1. Install pytorch
